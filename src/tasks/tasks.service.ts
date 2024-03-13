@@ -9,7 +9,7 @@ export class TasksService {
     {
       id: '1',
       title: 'CRUD',
-      description: 'Este CRUD es para aprender a manejar TS',
+      description: 'Este CRUD es para aprender a manejar TS.',
       status: TaskStatus.PENDING,
     },
   ];
